@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T16:54:17 IST" name="Default suite" finished-at="2024-08-06T16:54:32 IST" duration-ms="15067">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T16:54:17 IST" name="Default test" finished-at="2024-08-06T16:54:32 IST" duration-ms="15067">
+      <class name="Baseclass_OrngHrm.LoginTestOrngHrm">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Baseclass_OrngHrm.LoginTestOrngHrm@3e27ba32]" started-at="2024-08-06T16:54:17 IST" name="setup" finished-at="2024-08-06T16:54:29 IST" duration-ms="11883" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="testlogin()[pri:0, instance:Baseclass_OrngHrm.LoginTestOrngHrm@3e27ba32]" started-at="2024-08-06T16:54:29 IST" name="testlogin" finished-at="2024-08-06T16:54:31 IST" duration-ms="2369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testlogin -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:Baseclass_OrngHrm.LoginTestOrngHrm@3e27ba32]" started-at="2024-08-06T16:54:31 IST" name="teardown" finished-at="2024-08-06T16:54:32 IST" duration-ms="750" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Baseclass_OrngHrm.LoginTestOrngHrm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
